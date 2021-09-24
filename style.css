@@ -140,6 +140,11 @@ nav ul li a {
 	text-align: center;
 }
 
+
+.box2 {
+	margin: 0 30px;
+}
+
 .box h2 {
 	margin-bottom: 26px;
 	color:#5499C7;
@@ -151,6 +156,55 @@ nav ul li a {
 	font-size: 0.85em;
 }
 
+.box button {
+	background-color: #5499C7;
+	border: none;
+	padding: 8px 30px;
+	color: #fff;
+	font-size: 1.25em;
+}
+
+
+.our-team {
+	background-color: #D4EFDF;
+	color:#5499C7;
+	text-align: center;
+	padding: 75px 10px 60px;
+}
+
+.our-team h1 {
+	margin-bottom: 50px;
+}
+
+.our-team p {
+	max-width: 640px;
+	font-size: 0.84em;
+	margin: 0 auto 80px;
+	line-height: 1.6em;
+}
+
+.contact-us {
+	background-color: #5499C7;
+	padding: 75px 0 60px;
+}
+
+.contact-us h1 {
+	color: #fff;
+	margin-bottom: 50px;
+}
+
+.contact-us flex {
+	justify-content: center;
+	max-width: 900px;
+}
+
+.btn1 {
+	background-color: #D98880;
+	border: none;
+	padding: 5px 5px;
+	color: #fff;
+	font-size: 1.05em;
+}
 
 
 
