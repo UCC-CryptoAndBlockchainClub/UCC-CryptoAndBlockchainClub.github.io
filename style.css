@@ -126,8 +126,8 @@ nav ul li a {
 
 
 .info-boxes {
-	margin-bottom: 90px;
 	background-color: #5499C7;
+	margin: 0px;
 }
 
 .info-boxes .flex{
@@ -170,7 +170,7 @@ nav ul li a {
 	background-color: #D4EFDF;
 	color:#5499C7;
 	text-align: center;
-	padding: 75px 10px 60px;
+	padding: 40px 40px 40px;
 }
 
 .our-team h1 {
